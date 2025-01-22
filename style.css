@@ -1,0 +1,19 @@
+h4{
+    color: rgb(98, 17, 165);
+    border: 2px solid green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.b{
+    border: 4px dotted violet;
+    margin: 2% 20%;
+    padding: 2%;
+    text-align: center;
+}
+.background{
+    background-color: blanchedalmond;
+
+}
